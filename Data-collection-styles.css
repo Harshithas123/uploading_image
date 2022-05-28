@@ -1,0 +1,17 @@
+.data1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.data2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.data3{
+    width: 221px;
+    height: 221px;
+}
